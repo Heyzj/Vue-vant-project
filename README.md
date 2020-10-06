@@ -7,3 +7,8 @@
     - 其余配置 参照 `webpack.config.js`
 2. vue请求数据为`vue-resource` 
 3. clone 到本地 请先使用你` npm install `,安装对应的包，启动脚本使用`webpack-dev-server`
+4. 成果展示图Q1、Q2、Q3、Q4：
+     + ![image text](https://github.com/Heyzj/Vue-vant-project/blob/main/Q1.png)
+     + ![image text](https://github.com/Heyzj/Vue-vant-project/blob/main/Q2.png)
+     + ![image text](https://github.com/Heyzj/Vue-vant-project/blob/main/Q3.png)
+     + ![image text](https://github.com/Heyzj/Vue-vant-project/blob/main/Q4.png)
