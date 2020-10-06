@@ -12,3 +12,4 @@
      + ![image text](https://github.com/Heyzj/Vue-vant-project/blob/main/Q2.png)
      + ![image text](https://github.com/Heyzj/Vue-vant-project/blob/main/Q3.png)
      + ![image text](https://github.com/Heyzj/Vue-vant-project/blob/main/Q4.png)
+5. > 下载到本地，安装好相应的包后，使用`npm run server` 启动项目，默认端口:`8080`
